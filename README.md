@@ -1,7 +1,8 @@
 # yourUseBackendAndFrontend
 使うバックエンドとフロントエンドを決める
 
-#Backendの種類
+# Backendの種類
+
 ## Nodejs 
 Express.js	軽量・柔軟な定番フレームワーク  
 NestJS	Angularライクな構造、TypeScriptベース  
@@ -95,7 +96,7 @@ Servant	API設計と型が密結合
 ## Swift 
 Vapor SwiftでWeb API開発、非同期対応  
 
-#FrontEnd種類
+# FrontEnd種類
 ## JS 
 React UIライブラリ、コンポーネント指向、人気No.1  
 Next.js Reactのフルスタックフレームワーク（SSR/SSG）  
